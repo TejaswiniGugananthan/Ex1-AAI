@@ -1,6 +1,6 @@
- Name : G.TEJASWINI
-Register No: 212222230157
-DATE:
+### Name : G.TEJASWINI
+### Register No: 212222230157
+### DATE:
 ### Experiment 1. Implementation of Bayesian Networks
 ## Aim :
 To create a bayesian Network for the given dataset in Python
